@@ -1,53 +1,53 @@
-# TRACKGENIX
 
-#### INTRODUCCION
-TRACKGENIX ES UNA APP WEB HECHA PARA SER IMPLEMENTADAS EN COMPAÑIAS  PROVEEN SERVICIOS DE DESARROLLO WEB  FACILITANDO GESTIONAR
- EL REGISTRO DE HORAS TRABAJADAS EN CADA PROYECTO Y EQUIPO DE TRABAJO.
+#### INTRODUCTION
+TRACKGENIX IS A WEB APPLICATION MADE TO BE IMPLEMENTED IN COMPANIES THAT PROVIDE WEB DEVELOPMENT SERVICES, FACILITATING MANAGEMENT
+ THE RECORD OF HOURS WORKED IN EACH PROJECT AND WORK TEAM.
  
-#### DESCRIPCION
-El sistema cuenta con una pantalla principal (Landing) con diferentes secciones. Allí se explica cuales son las características del sistema:
-Un título principal y subtítulo de la aplicación con su respectivo nombre:
-Debajo de la misma, una descripción breve del sistema en cuestión adjuntando una imagen que lo represente.
-**Un sidebar que contiene:**
-> -Home
--SignUp
--LogIn
--Información de contacto-Información de contacto
+#### DESCRIPTION
+The system has a main screen (Landing) with different sections. There it is explained what the characteristics of the system are:
+A main title and subtitle of the application with its respective name:
+Next, a brief description of the system in question, attaching an image that represents it.
+**A sidebar containing:**
+>-Home
+-Register
+-Access
+-Contact information-Contact information
 
-**Una sección en la que se presentan las diferentes funcionalidades de la aplicación:**
-> -Registro de horas
--Reportes
--Gestión de recursos
--Múltiples roles
+**A section in which the different functionalities of the application are presented:**
+> -Hour registration
+-Reports
+-Resource management
+-Multiple roles
 
-**Un formulario para solicitar información del sistema, el cual debe contener los siguientes campos:**
+**A form to request information from the system, which must contain the following fields:**
 
-> -Nombre
+> -Name
 -Email
--Área de contacto
--Recursos Humanos
--Sistemas
--Comercialización
--Mensaje-Mensaje
+-Contact area
+-Human Resources
+-Systems
+-Commercialization
+-Message-Message
 
-**Una sección final que contenga algunos elementos listados como:**
-> -Productos (lista ordenada)
--Funcionalidades
--Descargas
--Integraciones
--Extras
-Soporte (lista ordenada)
-> Ayuda
-> Tutoriales
-API
+**A final section containing some items listed as:**
+> -Products (ordered list)
+-Functionalities
+-Downloads
+-Integrations
+-Additional characteristics
+Support (ordered list)
+> Help
+> Tutorials
+api
 ContactContact
 
-**Dentro del sistema se encuentran diferentes roles con diferentes funcionalidades. **
-Estos roles son:
+**Within the system there are different roles with different functionalities. **
+These roles are:
 *EMPLOYEE
 PROJECT MANAGER (PM)
-ADMIN
-SUPERADMIN*
-
-
+MANAGEMENT
+SUPER ADMINISTRATOR* 
+Más información sobre este texto de origenPara obtener más información sobre la traducción, se necesita el texto de origen
+Enviar comentarios
+Paneles laterales
 
