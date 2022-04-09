@@ -12,15 +12,25 @@
 background-color: #aace9b;
 }
 
-
+aside {
+    position: absolute;
+    display: inline-block;
+    width: 308px;
+    height: 7500px;
+    top: 0;
+    left: 0;
+    background-color: #ededed; 
+}
 
 
 
 
 #footer {
-    height: auto;
-    display: inline-block;
-    width: 30%;
-    color:white;
-    margin: 10px;
+    
+    position: relative;
+    height: 580px;
+    background-image: url(img/footer.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
