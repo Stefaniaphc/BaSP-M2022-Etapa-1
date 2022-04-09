@@ -58,3 +58,6 @@ The problem of week 02 consisted in creating an HTML document that had the same 
 week-03
 
 This week's problem consists of including the styles corresponding to the HTML structure of week 02 to ensure that when viewing the page, it looks identical to the landing of the screenflow of the first week. The progress must be saved within the same public Github repository from week 02. The repository link must be uploaded as a response to the weekly goal before the end of the week
+
+week-04
+The objective of week 04 is to replicate the landing page of the screenflow of week 01 using Flexbox as the main tool for the creation of a Responsive Design following the concept of Mobile First. The main menu should be in the left sidebar with links when viewing from a desktop pc, but when viewing the web from a cell phone the vertical bar should disappear and only the “hamburger” icon ☰ should be displayed (it does not need to be click it for now since that is solved with JavaScript). Said landing has to verse perfectly on any device. It is not necessary for the navigation menu to go anywhere, it is only necessary that the landing is complete, functional and displayed correctly on any device.
